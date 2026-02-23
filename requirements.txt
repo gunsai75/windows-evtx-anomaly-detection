@@ -1,0 +1,12 @@
+pandas>=2.0.0
+numpy
+scikit-learn
+shap
+matplotlib
+fastapi
+uvicorn
+pydantic
+dash
+dash-bootstrap-components
+plotly
+requests
