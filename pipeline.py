@@ -11,7 +11,7 @@ import os
 
 def main():
     print("="*50)
-    print("Anomaly Detection ML Pipeline")
+    print("--Anomaly Detection ML Pipeline--")
     print("="*50)
 
     # Make output directory
